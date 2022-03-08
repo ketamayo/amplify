@@ -7,8 +7,7 @@
           <header className="App-header">
             <img src={logo} className="App-logo" alt="logo" />
             <p>
-                No CORONA
-              <!-- Edit <code>src/App.js</code> and save to reload. -->
+                No CORONA~~~ 코로나 물러가라!!!
             </p>
             <a
               className="App-link"
